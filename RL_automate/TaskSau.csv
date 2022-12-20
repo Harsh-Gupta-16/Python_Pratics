@@ -1,0 +1,4 @@
+Timings,Application,Activity,SubActivity,Description,Hours,Complete
+Office,Billing EDI,Others,Internal Meeting,EDI meeting  ,1,continue
+Office,Billing EDI,Enhancements greater than 80 hour,Customer meeting,Pragma /Other Meeting,2,continue
+Office,Billing EDI,Enhancements greater than 80 hour,Enhancement,EDI Modernization ,6,end

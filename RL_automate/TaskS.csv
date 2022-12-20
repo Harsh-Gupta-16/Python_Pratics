@@ -1,0 +1,7 @@
+Timings,Application,Activity,SubActivity,Description,Hours,Complete
+Office,Billing EDI,Enhancements greater than 80 hour,Customer Meeting,pragma call,0.5,continue
+Office,Billing EDI,Enhancements greater than 80 hour,Customer Meeting,daily status call- kathy rajesh call,1,continue
+Office,Billing EDI,Enhancements greater than 80 hour,Enhancement,migration task including post production issues,5,continue
+Office,Billing EDI,Production Support - Non IM activities,Internal Meeting,team internal meeting,0.5,continue
+Office,Billing EDI,Production Support - Non IM activities,IM activity,production monitoring ina nd qbs monitoring,1,continue
+Office,Billing EDI,Production Support - IM activities,Non IM activity,eligibility IMs,1,end

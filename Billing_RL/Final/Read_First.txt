@@ -1,0 +1,3 @@
+1. Run the Setup.bat to Setup the Program
+Once complete the Setup
+2. Lauch the RUN.bat to Start the Program
